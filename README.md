@@ -1,7 +1,7 @@
 ### Boas vindas ao meu perfil 
 # ProfessorVinicius
 
-- estou estudando no [alura]![](https://www.alura.com.br)
+- estou estudando no [alura](https://www.alura.com.br)
 - estou desenvolvendo minhas habilidade em programação.
 - utilizo este este espaço para minha organição de progetos digitais.
 
